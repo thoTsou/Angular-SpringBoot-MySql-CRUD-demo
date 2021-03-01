@@ -8,8 +8,8 @@ This project is a basic CRUD example
 How to run<br/>
 1)clone repository<br/>
 2)cut and paste springBootFoldersAndFiles outside from this cloned repo<br/>
-3)inside springBootFoldersAndFiles there'a a folder named demo.It is a maven java project .Import it to your pref IDE and run the server .
-4)cd into the cloned repo
-5)npm install
-6)ng serve --port 8081
+3)inside springBootFoldersAndFiles there'a a folder named demo.It is a maven java project .Import it to your pref IDE and run AngularBootApplication.java <br/>
+4)open cmd and --> cd into the cloned repo <br/>
+5)--> npm install <br/>
+6)--> ng serve --port 8081 <br/>
 
