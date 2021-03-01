@@ -1,6 +1,7 @@
 # AngularCRUD demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.<br/><br/>
+This project is a basic CRUD example 
 
 ##JAVA and Spring-Boot on backend to provide REST API's // Angular on frontend to consume these API's // using MySQL to store data
 
